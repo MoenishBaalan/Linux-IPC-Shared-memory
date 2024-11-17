@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-### Developed by:KEERTHIVASAN M
-### Reg no:212223100021
+### Developed by:MOENISH BAALAN G
+### Reg no:212223220057
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
