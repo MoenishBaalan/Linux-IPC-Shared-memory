@@ -58,7 +58,7 @@ int main()
 
 
 ## OUTPUT
-![Uploading 325457583-b7497975-15a4-488a-bb90-91eada320d3b.png…]()
+![325457583-b7497975-15a4-488a-bb90-91eada320d3b](https://github.com/user-attachments/assets/088b6928-39d7-4418-b1a0-04b267bfad58)
 
 
 
